@@ -1,0 +1,295 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+.product-title{
+	min-height: 40px;
+}
+.product-title a{
+	color: #5c4439;
+	font-weight: bold;
+}
+ul.nav-right .cart-item .cart-price .woocommerce-Price-amount{
+	color: white;
+}
+ul.nav-right .cart-item i.icon-shopping-cart{
+	color: white;
+}
+.header-bottom-nav li{
+	padding: 0px 5px;
+}
+
+.flex-right ul li{
+	padding: 0px 10px !important;
+
+}
+.flex-right ul li a{
+	text-transform: initial !important;
+	font-size: 16px;
+}
+
+/*Màu sắc button*/
+.social-button, .social-icons .button.icon:not(.is-outline), .social-icons .button.icon:hover {
+	background-color: currentColor !important;
+	border-color: currentColor !important;
+}
+.button.facebook,.button.facebook:not(.is-outline), .button.facebook:hover {
+	color: #fff;
+	background-color: #446084;
+	border-color: #446084;
+}
+.button.twitter,.button.twitter:not(.is-outline), .button.twitter:hover {
+	color: white ;
+	background-color : #2478ba;
+	border-color: #2478ba ;
+}
+.button.email,.button.email:not(.is-outline), .button.email:hover {
+	color: #fff;
+	background-color: black ;
+	border-color: black ;
+}
+.button.pinterest,.button.pinterest:not(.is-outline), .button.pinterest:hover {
+	color: #fff !important;
+	background-color: #cb2320  ;
+	border-color: #cb2320  ;
+}
+
+.button.google-plus,.button.google-plus:not(.is-outline), .button.google-plus:hover {
+	color: #fff ;
+	background-color: #dd4e31 ;
+	border-color: #dd4e31 ;
+}
+.button.linkedin,.button.linkedin:not(.is-outline), .button.linkedin:hover {
+	color: #fff ;
+	background-color: #0072b7 ;
+	border-color: #0072b7   ;
+}
+
+.single-date{
+	border-bottom: 1px dashed #ededed;
+}
+h1.entry-title{
+	font-size: 24px ;
+}
+/*Kết thúc màu sắc*/
+
+
+
+footer.entry-meta {
+
+	border-top: none !important;
+	border-bottom: 1px dashed #ececec !important;
+
+}
+
+.entry-content img{
+	width: auto !important
+}
+.duong-line {
+	background: rgba(0,0,0,0) url(images/line.png) repeat scroll 0 0;
+	height: 12px;
+	margin-top: 5px;
+	overflow: hidden;
+}
+.related-post h7{
+	font-weight: bold;
+	font-size: 18px;
+	float: left;
+	margin: -8px 20px 0 0;
+}
+.home #main{
+	background: #F1F1F1 !important;
+}
+
+.price-wrapper span.amount{
+	color: #60b301 !important
+}
+.box-text-products{
+	text-align: center;
+}
+.woocommerce-breadcrumb {
+	font-size: 13px;
+}
+.widget_shopping_cart ul li.mini_cart_item{
+	padding-right: 20px !important;
+	padding-left: 60px !important;
+}
+.widget_shopping_cart ul li.mini_cart_item a{
+	font-size: 12px !important
+}
+.price_slider_amount .price_label{
+	font-size: 12px
+}
+.grid-tools a{
+	background: #F36F36 !important
+}
+h1.product-title{
+	font-weight: 500 !important
+}
+.header-block-block-1 .col{
+	padding-bottom: 0px !important;
+}
+[data-icon-label]:after, .secondary.is-underline:hover, .secondary.is-outline:hover, .icon-label, .button.secondary:not(.is-outline), .button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button {
+	background-color: #60B301 ;
+}
+
+.product_list_widget .woocommerce-Price-amount{
+	color: #60b301 !important;
+}
+.price_slider_amount .button{
+	background: #F36F36 !important
+}
+.div-anh .col-inner{
+	border: 7px solid white;
+}
+/*chữ khuyến mãi nghiêng*/
+.badge-container{
+	border-color: #60b301 #60b301 transparent transparent;
+	border-style: solid;
+	border-width: 50px 50px 50px 50px;
+	height: 0px;
+	width: 0px;
+	margin-top: 0px;
+	right: 0px !important;
+	left: auto !important;
+}
+.badge-frame .badge-inner, .badge-outline .badge-inner{
+	font-size: 13px !important;
+
+	border:none !important;
+}
+.row-slider.slider .col .col-inner {
+	overflow: hidden;
+}
+span.onsale{
+	color: white !important
+}
+.badge-inner{
+	text-transform: uppercase !important;
+	line-height: 1.3 !important;
+}
+.callout{
+	margin-left: -29px;
+	margin-right: 9px;
+	margin-top: -33px;
+	background: transparent;
+
+}
+.product-images {
+    overflow: hidden !important;
+}
+.badge-inner{
+	-webkit-transform: rotate(45deg);
+}
+.section-dau{
+	padding-top: 5px !important;
+}
+.class-danh-muc,.class-banner{
+	padding: 0px !important
+}
+#main #content,#main ,.page-title{
+	padding-bottom: 10px;
+	background: #E3DAD3;
+}
+.blog-archive .large-9{
+	background: white;
+	padding-top: 20px;
+}
+.section .box-text,.shop-container .box-text{
+	border-radius: 0px 0px 7px 7px;
+	background: white;
+}
+#wide-nav > .flex-row > .flex-left{
+	min-width: 273px !important
+}
+.header-button .header-cart-link{
+	background: #60b301 !important
+}
+.row-giao-hang .flickity-viewport,.row-giao-hang .slider-wrapper{
+	border-radius: 14px;
+}
+#mega_main_menu.direction-horizontal > .menu_holder > .menu_inner > ul > li > .item_link:before, #mega_main_menu.direction-horizontal > .menu_holder > .menu_inner > .nav_logo:before, #mega_main_menu.direction-horizontal > .menu_holder > .menu_inner > ul > li.nav_search_box:before{
+	background-image: none !important
+}
+#mega_main_menu > .menu_holder > .menu_inner > ul > li{
+	display: block !important;
+}
+#mega_main_menu_ul{
+	background: white !important;
+}
+#mega_main_menu_ul li a{
+	text-transform: uppercase !important;
+}
+.tieude-khung p{
+	text-align: center;
+	margin-bottom: 0px;
+	padding: 10px 0px;
+	background: #e67e22;
+	color: white;
+	font-weight: bold;
+
+}
+#mega-menu-wrap{
+	background:#e67e22 !important;
+}
+.box-first{
+	margin-bottom: 0px !important;
+	padding-bottom: 0px;
+}
+.box-first .icon-box{
+	padding: 5px;
+}
+.box-first h3{
+	font-size: 17px;
+	margin-bottom: 0px;
+}
+.title-danh-muc p{
+	margin-bottom: 0px;
+}
+.title-danh-muc{
+	text-align: center;
+}
+
+
+.product-main .content-row{
+	background: white !important;
+	padding-top: 20px;
+}
+.category-page-row{
+	background: white !important;
+}
+.post-sidebar {
+	padding-top: 20px !important;
+	background:white !important;
+}
+.blog-single .large-9{
+	background: white !important;
+	padding-top: 20px !important;
+}
+.page-wrapper .row-main{
+	padding-top: 20px;
+	background: white !important;
+}
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+}
+@media(min-width: 767px) and (max-width: 1023px){
+	.full-medium{
+		max-width: 100% !important;
+		flex-basis: 100% !important;
+	}
+
+}
+
+@media(min-width: 1025px){
+
+}
